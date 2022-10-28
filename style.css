@@ -46,6 +46,7 @@ section {
   font-size: 3rem;
   padding-top: 2rem;
   text-transform: uppercase;
+  margin-bottom: 1rem;
 }
 
 .btn {
@@ -208,7 +209,7 @@ header .icons #menu-bars {
 
 .home .home-slider .slide .content h3 {
   color: var(--black);
-  font-size: 7rem;
+  font-size: 5rem;
 }
 
 .home .home-slider .slide .content p {
@@ -230,7 +231,7 @@ header .icons #menu-bars {
 .dishes .box-container .box {
   padding: 2.5rem;
   background: #fff;
-  border-radius: 0.1rem solid rgba(0, 0, 0, 0.2);
+  border-radius: 1rem;
   box-shadow: var(--box-shadow);
   position: relative;
   overflow: hidden;
@@ -593,7 +594,29 @@ header .icons #menu-bars {
   opacity: 0;
 }
 
+.loader-container{
+  position: fixed;
+  top: 0;left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10000;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.loader-container img{
+  width: 35rem;
+}
+
+
+
+
+
 /* Media Queries */
+
 @media (max-width: 990px) {
   html {
     font-size: 55%;
