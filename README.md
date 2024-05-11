@@ -9,7 +9,8 @@ FrontEnd built with HTML, CSS, and JavaScript. This project allows customers to 
 
 
 ## ScreenShot's
-![Resto Banner)](https://github.com/rohitdhakane6/Restaurant-Website/assets/109848812/bce0d778-a069-40c6-a8f9-368ce924e3e7)
+
+![Resto Banner)](https://github.com/rohitdhakane6/Restaurant-Website/assets/109848812/34b949e9-a952-40f3-baf5-0199cefd165d)
 .
 
 ![Screenshot (10)](https://github.com/rohitdhakane6/Restaurant-Website/assets/109848812/221f354c-3c8c-4ff3-af47-337609410715)
@@ -30,3 +31,4 @@ Follow these steps to set up Resto locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/rohitdhakane6/Restaurant-Website
+
